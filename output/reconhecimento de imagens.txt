@@ -1,1 +1,5 @@
-
+Google Cloud Vision:
+O Google Cloud Vision é um serviço de IA que oferece análise de imagens baseada em deep learning em escala.
+Ele possui modelos pré-construídos para reconhecimento de imagem e texto.
+É uma ótima opção se você deseja usar uma solução pronta sem experiência em machine learning.
+Saiba mais sobre o Google Cloud Vision.
